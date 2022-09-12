@@ -36,6 +36,16 @@ thead {
     color: white;
 }
 
+#t1 {
+    width: 25%;
+}
+#t2 {
+    width: 25%;
+}
+#t3{
+    width: 48%;
+}
+
 .dispari {
     background-color: rgb(176, 228, 241);
 }
