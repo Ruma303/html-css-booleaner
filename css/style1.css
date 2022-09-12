@@ -11,6 +11,14 @@ header>div {
     font-weight: 500;
 }
 
+.titolo {
+    margin-bottom: 0;
+}
+
+.credits {
+    margin-bottom: 40px;
+}
+
 .author {
     color: rgb(31, 167, 227);
 }
@@ -19,21 +27,9 @@ header>div {
     font-size:13px;
 }
 
-main>img {
-    width: auto;
-}
-
-.pics {
-    font-size: 15px;
-}
-
 .ul {
     margin-left: 0;
 }
-
-/* td {
-    column-span: calc(25% -25% -50%);
-} */
 
 thead {
     background-color: rgb(34, 168, 227);
